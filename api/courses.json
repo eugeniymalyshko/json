@@ -7,8 +7,26 @@
 			{
 				"alias": "financial-analitics",
 				"title": "Курсы по фининсовой аналитике",
-				"_id": "",
-				"title": ""
+				"_id": "gbzxwexo1jecf1nry1o7",
+				"category": "Финансовая аналитика"
+			},
+			{
+				"alias": "big-data",
+				"title": "Курсы по Big data",
+				"_id": "6wqv1hik3a3z26u69qmz",
+				"category": "Big data"
+			},
+			{
+				"alias": "data-science",
+				"title": "Курсы по Data science",
+				"_id": "wz413sknzioh2xybwf3z",
+				"category": "Data science"
+			},
+			{
+				"alias": "machine-learning",
+				"title": "Курсы по машинному обучению",
+				"_id": "oflnbg0e8i3ulywym2zr",
+				"category": "Машинное обучение"
 			}
 		]
 	}
