@@ -1,0 +1,36 @@
+{
+	"tags": [
+		"adobe photoshop",
+		"графический дизайн",
+		"Компьютерная графика",
+		"веб зизайн"
+	],
+	"_id": "jjosg4isglgo9xnxevo8",
+	"secondCategory": "Дизайн",
+	"alias": "photosop",
+	"title": "Курси Photoshop",
+	"category": "Photoshop",
+	"seoText": "",
+	"tagsTitle": "Навыки",
+	"metaTitle": "",
+	"firstCategory": 0,
+	"advantages": [
+		{
+			"_id": "z4v24y0vghd5msy9vcmp",
+			"title": "",
+			"description": ""
+		}	
+	],
+	"createdAt": "",
+	"updatedAt": "",
+	"__v": "0",
+	"hh": {
+		"-id": "l00shj29ua0drqy650vs",
+		"count": "",
+		"juniorSalary": 100,
+		"middleSalary": 200,
+		"seniorSalary": 300,
+		"updatedAt": ""
+	}
+}
+
