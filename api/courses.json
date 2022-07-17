@@ -1,0 +1,15 @@
+[
+	{
+		"_id": {
+			"secondCategory": "Аналитика"
+		},
+		"pages": [
+			{
+				"alias": "financial-analitics",
+				"title": "Курсы по фининсовой аналитике",
+				"_id": "",
+				"title": ""
+			}
+		]
+	}
+]
